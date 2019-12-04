@@ -12,7 +12,7 @@ import javax.websocket.server.ServerEndpoint;
 /**
  * Web socket server.
  */
-@ServerEndpoint("/websocket")
+@ServerEndpoint("/message")
 public class WebSocketEndPoint {
 
     //to start mvn jetty:run
