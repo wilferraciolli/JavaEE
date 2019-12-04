@@ -1,4 +1,6 @@
 #Java EE web sockets
+This is a very simple web sockets example. This is a 1-1 connection only. It does not support multiple people connecting to the socket.
+
 To run this project go to the terminal and type
     `mvn jetty:run`
    
